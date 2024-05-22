@@ -1,4 +1,4 @@
-## <img src="./img/meow_enjoy.gif" width="24px" heighth="24px" /> Hi , I am Li sine2cr👋
+## <img src="./img/meow_enjoy.gif" width="24px" heighth="24px" /> Hi , I am sine2cr👋
 
  A backend rookie 🐦 from **ChangSha, China**.
 
