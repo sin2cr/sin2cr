@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @sine2cr
-- 👀 I’m interested in 后端开发
-- 目前是一名正在朝着成为一个后端开发者努力的大学生
-- [这是我的个人博客&知识库](https://www.sine2cr.cn/)
-- 如不嫌弃敬请阅读斧正
+## Hi , I am Li sine2cr👋
 
-<!---
-sin2cr/sin2cr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ A backend rookie 🐦 from **ChangSha, China**.
+
+## 🏠 Blog:
+
+**[https://www.sine2cr.cn/](https://www.sine2cr.cn/)**
+
+## 📊 Stats:
+
+| ![GitHub stats][GitHub stats] | ![Top Langs][Top Langs] |
+| ----------------------------- | ----------------------- |
+
+
+[GitHub stats]: https://github-readme-stats.vercel.app/api?username=sine2cr&show_icons=true
+
+[Top Langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=sine2cr&layout=compact
+
+[activity graph]: https://github-readme-activity-graph.vercel.app/graph?username=sine2cr&theme=react-dark
+### 📈 Activity Graph:
+
+![activity graph][activity graph]
