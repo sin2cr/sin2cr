@@ -4,7 +4,7 @@
 
 ## 🏠 Blog:
 
-**[<img src="./img/meow_coffee.png" width="24px" heighth="24px" /> https://www.sine2cr.cn ](https://www.sine2cr.cn/)<img src="./img/meow_attention.gif" width="24px" heighth="24px" />**
+**[<img src="./img/meow_attention.gif" width="24px" heighth="24px" /> https://www.sine2cr.cn ](https://blog.sine2cr.cn/) <img src="./img/meow_coffee.png" width="24px" heighth="24px" />**
 
 ## 📊 Stats:
 
